@@ -11,6 +11,7 @@ namespace Übug_Repo_von_Video
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.ReadKey();
         }
     }
 }
